@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: darkorchid;
+        
+}
+
+div{
+    margin:15px;
+}
+
+.image-section{
+   display: flex;
+    justify-content: center;
+    
+}
+.image style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aliceblue;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
